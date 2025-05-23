@@ -1,6 +1,6 @@
 # 🌸 Basic Django Project
 
-A simple Django-based web project built for learning and experimentation. It includes essential Django components like views, templates, models, and routing — perfect for beginners!
+A simple Django-based web project built for learning and experimentation. It includes essential Django components like views, templates, models, and routing — perfect for beginners.
 
 ---
 
